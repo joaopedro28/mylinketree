@@ -1,0 +1,82 @@
+{
+    "status": "success",
+    "data": {
+        "id": "25",
+        "name": "Pagina de Links",
+        "name1": "Grupo Oceano",
+        "name2": "#02446C",
+        "name3": "#168BD3",
+        "text1": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis tortor vel dapibus scelerisque. Nulla fermentum massa vitae suscipit tincidunt. Aliquam erat volutpat. Curabitur a congue tellus. Aenean eget arcu non erat posuere sagittis. Nulla quis mauris nec magna.</p>",
+        "text2": "<p>Fone: (53) 3231-1818 Whatsapp: (53) 3231-2020 Rua General Osório, 531 Rio Grande / RS</p>",
+        "image1": "https://grupooceano.dev.wdhouse.com.br/wdframe/index.php?type=img&id=NjIyNzE=",
+        "featured": false,
+        "category1": {
+            "code": "8",
+            "list": [
+                {
+                    "id": "27",
+                    "name": "Facebook",
+                    "name1": "Facebook Oceano",
+                    "name2": "https://facebook/oceanofm",
+                    "category1": {
+                        "code": "0",
+                        "list": [ ]
+                    },
+                    "selection1": {
+                        "name": "Facebook",
+                        "value": "facebook"
+                    },
+                    "category": {
+                    "code": "8",
+                    "name": "Adicionar Links",
+                    "route": "/cms//"
+                    },
+                    "route": "/cms//facebook-27/",
+                    "gallery1": [ ]
+                },
+                {
+                    "id": "28",
+                    "name": "Portal de Notícias",
+                    "name1": "Portal de Notícias",
+                    "name2": "/noticias",
+                    "category1": {
+                        "code": "0",
+                        "list": [ ]
+                    },
+                    "selection1": {
+                        "name": "Botão",
+                        "value": "button"
+                    },
+                    "category": {
+                        "code": "8",
+                        "name": "Adicionar Links",
+                        "route": "/cms//"
+                    },
+                    "route": "/cms//portal-de-noticias-28/",
+                    "gallery1": [ ]
+                },
+                {
+                    "id": "29",
+                    "name": "Radio Oceano 97,1 FM",
+                    "name1": "Radio Oceano 97,1 FM",
+                    "name2": "/radio",
+                    "category1": {
+                        "code": "0",
+                        "list": [ ]
+                    },
+                    "selection1": {
+                        "name": "Botão",
+                        "value": "button"
+                    },
+                    "category": {
+                        "code": "8",
+                        "name": "Adicionar Links",
+                        "route": "/cms//"
+                    },
+                    "route": "/cms//radio-oceano-971-fm-29/",
+                    "gallery1": [ ]
+                }
+            ]
+        }
+    }
+}

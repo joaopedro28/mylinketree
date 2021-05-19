@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    background: #A0A0A0;
+}
+
+.wdlink {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.wdlink .topo {
+    position: relative;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.wdlink .logo {
+    margin: 40px auto -55px auto;
+    height: 172px;
+    width: 172px;
+    background-color: #f4f4f4;
+    border-radius: 100%;
+    border: 2px solid #fff;
+    box-shadow: 0 9px 10px rgba(0, 0, 0, 0.16);
+}
+
+.wdlink .logo .logo_image {
+    padding: 2px;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+.wdlink .items {
+    padding-top: 80px;
+    margin: 0 15px;
+}
+
+.wdlink .items h1 {
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    text-align: center;
+}
+
+.wdlink .items .text {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    text-align: center;
+    max-width: 458px;
+    margin: auto;
+    padding: 10px 15px;
+}
+
+.wdlink .items .link {
+    background: #fff;
+    border-radius: 50px;
+    padding: 13px 30px;
+    justify-content: center;
+    margin: 20px auto;
+    display: flex;
+    color: #000000;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    max-width: 312px;
+    transition: 1s all;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.wdlink .items .link:hover {
+    transition: 1s all;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.16);
+    cursor: pointer;
+    background: rgb(232, 232, 232);
+}
+
+.wdlink .midias_sociais {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 50px 0 30px;
+}
+
+.wdlink .midias_sociais a {
+    margin: 10px 10px;
+}
+
+.wdlink .midias_sociais svg {
+    width: 35px;
+    height: auto;
+    fill: #fff;
+    transition: 1s all;
+}
+
+.wdlink .midias_sociais svg:hover {
+    cursor: pointer;
+    fill: #cccccc;
+}
+
+.wdlink .items .text_final {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    text-align: center;
+    max-width: 458px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.wdlink .logo_wd {
+    margin: auto auto 20px auto;
+}
+
+.wdlink .logo_wd svg {
+    width: 90px;
+    height: auto;
+    fill: #fff;
+    margin: 10px 5px;
+}
